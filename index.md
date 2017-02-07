@@ -8,7 +8,6 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>Freitas-App-Solutions by felipedfjMob</title>
  </head>
 
 <body id="page-top">
@@ -18,11 +17,9 @@
 
 <h3>
     Política de privacidade para
-    Delx Mobile
+    Freitas App Solutions
     e aplicativos vinculados a conta
-    <a href="https://play.google.com/store/apps/developer?id=DelxMobile+Labs">Delxmobile Apps</a>
-    e
-    <a href="https://play.google.com/store/apps/dev?id=5723502633915819194">Mobills Labs apps</a>
+    <a href="https://play.google.com/store/apps/developer?id=Freitas+App+Solutions">Freitas App Solutions</a>
 </h3>
 
 <p>

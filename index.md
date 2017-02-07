@@ -15,22 +15,6 @@
 
 <section id="main_content">
           
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href="https://fonts.googleapis.com/css?family=Chivo:900" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/Freitas-App-Solutions/assets/css/style.css?v=4708427b948d5949a3b4a482ee07a6b2aef2f59e">
-    <link rel="stylesheet" type="text/css" href="/Freitas-App-Solutions/assets/css/print.css" media="print">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
- 
-
-
-    
-
-
-
 <h3>
     Política de privacidade para
     Freitas App Solutions
@@ -45,7 +29,7 @@
 <p>
     Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem a Freitas App Solutions serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).
     A informação pessoal recolhida pode incluir o seu nome, e-mail, número de telefone e/ou telemóvel, morada, data de nascimento e/ou outros.
-    O uso do Freitas App Solutions pressupõe a aceitação deste Acordo de privacidade. A equipa do Freitas App Solutions reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.
+    O uso do Freitas App Solutions pressupõe a aceitação deste Acordo de privacidade. A equipe do Freitas App Solutions reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.
 </p>
 <h4>
     Os anúncios
@@ -60,14 +44,7 @@
     A Freitas App Solutions possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a politica de privacidade do mesmo.
     Não nos responsabilizamos pela política de privacidade ou conteúdo presente nesses mesmos sites.
 </p>
-
-    
-
-
-
-
-
-        </section>
+</section>
 
 
 

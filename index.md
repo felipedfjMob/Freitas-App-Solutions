@@ -1,17 +1,6 @@
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href="https://fonts.googleapis.com/css?family=Chivo:900" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/Freitas-App-Solutions/assets/css/style.css?v=4708427b948d5949a3b4a482ee07a6b2aef2f59e">
-    <link rel="stylesheet" type="text/css" href="/Freitas-App-Solutions/assets/css/print.css" media="print">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
- </head>
-
-<body id="page-top">
-    
+ <link href="https://fonts.googleapis.com/css?family=Chivo:900" rel="stylesheet" type="text/css">
+ <link rel="stylesheet" href="/Freitas-App-Solutions/assets/css/style.css?v=4708427b948d5949a3b4a482ee07a6b2aef2f59e">
+ <link rel="stylesheet" type="text/css" href="/Freitas-App-Solutions/assets/css/print.css" media="print">
 
 <section id="main_content">
           
@@ -45,9 +34,3 @@
     Não nos responsabilizamos pela política de privacidade ou conteúdo presente nesses mesmos sites.
 </p>
 </section>
-
-
-
-
-</body>
-</html>
